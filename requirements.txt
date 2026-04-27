@@ -1,0 +1,12 @@
+streamlit
+yfinance
+plotly
+pandas
+numpy
+scikit-learn
+GoogleNews
+transformers
+torch
+datasets
+matplotlib
+seaborn
